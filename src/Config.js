@@ -110,7 +110,7 @@ const config = {
      |
      */
 
-    sourcemaps: ! gutils.env.production,
+    sourcemaps: ! production,
 
     /*
      |----------------------------------------------------------------
